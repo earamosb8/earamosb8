@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Ramos</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somarae8" alt="somarae8" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=earamosb8" alt="earamosb8" /> </p>
 
 - 🔭 I’m currently working on [AirBnB_clone_v3](https://github.com/somarae8/AirBnB_clone_v3)
 
