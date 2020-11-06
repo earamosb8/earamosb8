@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earamosb8" alt="earamosb8" /> </p>
 
-- 🔭 I’m currently working on [AirBnB_clone_v3](https://github.com/somarae8/AirBnB_clone_v3)
+- 🔭 I’m currently working on [AirBnB_clone_v3](https://github.com/earamosb8/AirBnB_clone_v3)
 
 - 🌱 I’m currently learning **React,React Native Nodejs,Python-flask**
 
