@@ -16,7 +16,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somarae8&layout=compact&hide=html" alt="somarae8" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/earamosb8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/somarae8/" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/earamosb8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/earamosb8/" height="30" width="30" /></a>
 <a href="https://medium.com/@1493" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@1493" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/@h1493" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@h1493" height="30" width="30" /></a>
 </p>
