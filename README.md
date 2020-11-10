@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Ramos</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate Software Developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earamosb8" alt="earamosb8" /> </p>
 
