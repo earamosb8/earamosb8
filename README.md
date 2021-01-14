@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo Ramos</h1>
 <h3 align="center">A passionate Software Developer from Colombia</h3>
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earamosb8" alt="earamosb8" /> </p>
 
 - 🔭 I’m currently working on [AirBnB_clone_v3](https://github.com/earamosb8/AirBnB_clone_v3)
