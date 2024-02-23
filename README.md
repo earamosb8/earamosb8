@@ -16,7 +16,6 @@
 <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6a05bd" alt="bootstrap" width="40" height="40"/>
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="java" width="40" height="40"/>
 <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="sql" width="40" height="40"/>
-<img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angular" width="40" height="40"/>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earamosb8&layout=compact&hide=html" alt="earamosb8" /></p>
