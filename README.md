@@ -26,9 +26,10 @@
 </p>
 ---
 📊 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earamosb8&layout=compact&hide=html&theme=default" alt="Top Languages" />
-</p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earamosb8&layout=compact&hide=html" alt="earamosb8" /></p>
+
 ---
 🤝 Connect with me
 <p align="left">
