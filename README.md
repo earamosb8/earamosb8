@@ -5,12 +5,15 @@
 </p>
 ---
 👨‍💻 About me
-🔭 I'm currently working with Angular, Java y Plsql
-🌱 I'm currently learning React,React Native
-📫 Reach me at earamosb8@gmail.com
-🌎 Based in Colombia
----
-🛠️ Tech Stack
+--🔭 I'm currently working with **Angular, Java y Plsql**
+
+--🌱 I'm currently learning **React,React Native**
+
+--📫 Reach me at **earamosb8@gmail.com**
+
+--🌎 Based in Colombia
+
+--🛠️ Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/react/react-original.svg" alt="React" width="42" height="42" title="React" />
   &nbsp;
