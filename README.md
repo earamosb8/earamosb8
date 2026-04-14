@@ -28,9 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="42" height="42" title="Bootstrap" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=earamosb8&show_icons=true&theme=default&v=123" alt="GitHub Stats" />
-</p>
+
 
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
