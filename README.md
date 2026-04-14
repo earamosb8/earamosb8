@@ -12,8 +12,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/earamosb8/)
 <p align="left">
  <i class="devicon-android-plain colored"></i>
- <i class="devicon-react-original-wordmark colored"></i>
- 
+
+
 <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angular" width="40" height="40"/>
 <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6a05bd" alt="bootstrap" width="40" height="40"/>
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="java" width="40" height="40"/>
