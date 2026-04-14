@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=earamosb8&style=flat-square&color=blue" alt="profile views" />
 </p>
----
-👨‍💻 About me
+---👨‍💻 About me
+
 --🔭 I'm currently working with **Angular, Java y Plsql**
 
 --🌱 I'm currently learning **React,React Native**
