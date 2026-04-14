@@ -32,6 +32,8 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=earamosb8&show_icons=true&theme=default" alt="GitHub Stats" /></p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=earamosb8&show_icons=true&theme=default)
+
 ---
 🤝 Connect with me
 <p align="left">
