@@ -28,7 +28,7 @@
 📊 Most Used Languages
 
 
-<p><img src="https://github-readme-stats-git-master-eduardo-ramos-projects-2d15f746.vercel.app/api/top-langs/?username=earamosb8&layout=compact&hide=html" alt="Top Languages" /></p>
+<p><img src="https://github-readme-stats-git-master-eduardo-ramos-projects-2d15f746.vercel.app/api/top-langs/?username=earamosb8&layout=compact&hide=html&theme=default" alt="Top Languages" /></p>
 
 ---
 🤝 Connect with me
