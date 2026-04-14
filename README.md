@@ -30,7 +30,7 @@
 ---
 📊 Most Used Languages
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earamosb8&layout=compact&hide=html&langs_count=6" alt="Top Languages" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=earamosb8&show_icons=true&theme=default" alt="GitHub Stats" /></p>
 
 ---
 🤝 Connect with me
