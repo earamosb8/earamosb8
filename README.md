@@ -16,7 +16,6 @@
 <h3 align="left">🛠️ Tech Stack</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/react/react-original.svg" alt="React" width="42" height="42" title="React" />
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/react/react-original.svg" alt="React Native" width="42" height="42" title="React Native" style="filter: hue-rotate(40deg);" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/angularjs/angularjs-original.svg" alt="Angular" width="42" height="42" title="Angular" />
