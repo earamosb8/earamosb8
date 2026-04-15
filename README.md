@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=earamosb8&style=flat-square&color=blue" alt="profile views" />
 </p>
 
-<p align="center">
+<p align="left">
   👨‍💻 <strong>About me</strong><br>
   🔭 I'm currently working with <b>Angular, Java y Plsql</b><br>
   🌱 I'm currently learning <b>React, React Native</b><br>
