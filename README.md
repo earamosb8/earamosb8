@@ -13,7 +13,7 @@
   🌎 Based in Colombia
 </p>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="left">🛠️ Tech Stack</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/react/react-original.svg" alt="React" width="42" height="42" title="React" />
   &nbsp;
