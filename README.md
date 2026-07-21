@@ -24,17 +24,10 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/bootstrap/bootstrap-plain.svg" width="42" height="42" title="Bootstrap" /><br>Bootstrap</td>
   </tr>
 </table>
-
-
-
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/earamosb8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/eduar880620" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   &nbsp;
   <a href="mailto:earamosb8@gmail.com">
